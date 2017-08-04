@@ -1,0 +1,371 @@
+Loaded plugins: fastestmirror
+Loading mirror speeds from cached hostfile
+Setting up Update Process
+Resolving Dependencies
+--> Running transaction check
+---> Package krb5-libs.i386 0:1.6.1-80.el5_11 set to be updated
+---> Package sed.i386 0:4.1.5-8.el5 set to be updated
+---> Package mlocate.i386 0:0.15-1.el5.2 set to be updated
+---> Package ftp.i386 0:0.17-38.el5 set to be updated
+---> Package nscd.i386 0:2.5-123 set to be updated
+---> Package zlib.i386 0:1.2.3-7.el5 set to be updated
+---> Package lm_sensors.i386 0:2.10.7-9.el5 set to be updated
+---> Package dbus-libs.i386 0:1.1.2-21.el5 set to be updated
+---> Package bzip2.i386 0:1.0.3-6.el5_5 set to be updated
+---> Package libxml2-python.i386 0:2.6.26-2.1.25.el5_11 set to be updated
+---> Package iptables.i386 0:1.3.5-9.2.el5_8 set to be updated
+---> Package curl.i386 0:7.15.5-17.el5_9 set to be updated
+---> Package openssh.i386 0:4.3p2-82.el5 set to be updated
+--> Processing Dependency: libfipscheck.so.1 for package: openssh
+---> Package openssl.i686 0:0.9.8e-31.el5_11 set to be updated
+---> Package glibc.i686 0:2.5-123 set to be updated
+---> Package crontabs.noarch 0:1.10-11.el5 set to be updated
+---> Package less.i386 0:436-9.el5 set to be updated
+---> Package bash.i386 0:3.2-33.el5_11.4 set to be updated
+---> Package vixie-cron.i386 4:4.1-81.el5 set to be updated
+---> Package wget.i386 0:1.11.4-3.el5_8.2 set to be updated
+---> Package glibc-common.i386 0:2.5-123 set to be updated
+---> Package openssh-server.i386 0:4.3p2-82.el5 set to be updated
+---> Package chkconfig.i386 0:1.3.30.2-2.el5 set to be updated
+---> Package sudo.i386 0:1.7.2p1-29.el5_10 set to be updated
+---> Package sysklogd.i386 0:1.4.1-46.el5 set to be updated
+---> Package cyrus-sasl.i386 0:2.1.22-7.el5_8.1 set to be updated
+---> Package newt.i386 0:0.52.2-15.el5 set to be updated
+---> Package gnupg.i386 0:1.4.5-18.el5_10.1 set to be updated
+---> Package iproute.i386 0:2.6.18-15.el5 set to be updated
+---> Package diffutils.i386 0:2.8.1-16.el5 set to be updated
+---> Package apr-util.i386 0:1.2.7-11.el5_5.2 set to be updated
+---> Package device-mapper.i386 0:1.02.67-2.el5_11.1 set to be updated
+---> Package httpd.i386 0:2.2.3-91.el5.centos set to be updated
+---> Package libselinux-utils.i386 0:1.33.4-5.7.el5 set to be updated
+---> Package vim-enhanced.i386 2:7.0.109-7.2.el5 set to be updated
+---> Package gdbm.i386 0:1.8.0-28.el5 set to be updated
+---> Package authconfig.i386 0:5.3.21-7.el5 set to be updated
+---> Package perl.i386 4:5.8.8-43.el5_11 set to be updated
+---> Package binutils.i386 0:2.17.50.0.6-26.el5 set to be updated
+---> Package passwd.i386 0:0.73-2 set to be updated
+---> Package libjpeg.i386 0:6b-38 set to be updated
+---> Package sendmail-cf.i386 0:8.13.8-8.1.el5_7 set to be updated
+---> Package gawk.i386 0:3.1.5-16.el5 set to be updated
+---> Package SysVinit.i386 0:2.86-17.el5 set to be updated
+---> Package net-snmp-utils.i386 1:5.3.2.2-25.el5_11 set to be updated
+---> Package postgresql-libs.i386 0:8.1.23-10.el5_10 set to be updated
+---> Package libpng.i386 2:1.2.10-17.el5_8 set to be updated
+---> Package ntsysv.i386 0:1.3.30.2-2.el5 set to be updated
+---> Package filesystem.i386 0:2.4.0-3.el5.centos set to be updated
+---> Package dhclient.i386 12:3.0.5-33.el5_9 set to be updated
+---> Package m2crypto.i386 0:0.16-9.el5 set to be updated
+---> Package rpm-libs.i386 0:4.4.2.3-36.el5_11 set to be updated
+---> Package libusb.i386 0:0.1.12-6.el5 set to be updated
+---> Package tmpwatch.i386 0:2.9.7-1.1.el5.5 set to be updated
+---> Package nspr.i386 0:4.10.6-1.el5_10 set to be updated
+---> Package libselinux-python.i386 0:1.33.4-5.7.el5 set to be updated
+---> Package procps.i386 0:3.2.7-26.el5 set to be updated
+---> Package tcp_wrappers.i386 0:7.6-40.7.el5 set to be updated
+---> Package talk.i386 0:0.17-31.el5 set to be updated
+---> Package libstdc++.i386 0:4.1.2-55.el5 set to be updated
+---> Package popt.i386 0:1.10.2.3-36.el5_11 set to be updated
+---> Package vim-minimal.i386 2:7.0.109-7.2.el5 set to be updated
+---> Package rsync.i386 0:3.0.6-6.el5_11 set to be updated
+---> Package python-iniparse.noarch 0:0.2.3-6.el5 set to be updated
+---> Package openssh-clients.i386 0:4.3p2-82.el5 set to be updated
+---> Package dmidecode.i386 1:2.12-1.el5 set to be updated
+---> Package ethtool.i386 0:6-4.el5 set to be updated
+---> Package tar.i386 2:1.15.1-32.el5_8 set to be updated
+---> Package talk-server.i386 0:0.17-31.el5 set to be updated
+---> Package pam.i386 0:0.99.6.2-12.el5 set to be updated
+---> Package shadow-utils.i386 2:4.0.17-23.el5 set to be updated
+---> Package fetchmail.i386 0:6.3.6-4.el5 set to be updated
+---> Package finger.i386 0:0.17-33 set to be updated
+---> Package bind-libs.i386 30:9.3.6-25.P1.el5_11.2 set to be updated
+---> Package telnet.i386 1:0.17-41.el5 set to be updated
+---> Package readline.i386 0:5.1-3.el5 set to be updated
+---> Package coreutils.i386 0:5.97-34.el5_8.1 set to be updated
+---> Package initscripts.i386 0:8.45.45-1.el5.centos set to be updated
+---> Package util-linux.i386 0:2.13-0.59.el5_8 set to be updated
+---> Package sendmail-doc.i386 0:8.13.8-8.1.el5_7 set to be updated
+---> Package quota.i386 1:3.13-8.el5 set to be updated
+---> Package yum.noarch 0:3.2.22-40.el5.centos set to be updated
+---> Package e2fsprogs-libs.i386 0:1.39-37.el5 set to be updated
+---> Package tzdata.i386 0:2014j-1.el5 set to be updated
+---> Package net-tools.i386 0:1.60-83.el5_10 set to be updated
+---> Package libgcrypt.i386 0:1.4.4-7.el5_10 set to be updated
+---> Package db4.i386 0:4.3.29-10.el5_5.2 set to be updated
+---> Package expat.i386 0:1.95.8-11.el5_8 set to be updated
+---> Package dbus.i386 0:1.1.2-21.el5 set to be updated
+---> Package procmail.i386 0:3.22-17.1.2.el5_10 set to be updated
+---> Package net-snmp.i386 1:5.3.2.2-25.el5_11 set to be updated
+---> Package audit-libs-python.i386 0:1.8-2.el5 set to be updated
+---> Package tcsh.i386 0:6.14-17.el5_5.2 set to be updated
+---> Package net-snmp-libs.i386 1:5.3.2.2-25.el5_11 set to be updated
+---> Package nss.i386 0:3.16.2.3-1.el5_11 set to be updated
+---> Package libacl.i386 0:2.2.39-8.el5 set to be updated
+---> Package man.i386 0:1.6d-3.el5 set to be updated
+---> Package stunnel.i386 0:4.15-2.el5.2 set to be updated
+---> Package logrotate.i386 0:3.7.4-14 set to be updated
+---> Package xinetd.i386 2:2.3.14-20.el5_10 set to be updated
+---> Package e2fsprogs.i386 0:1.39-37.el5 set to be updated
+---> Package libsemanage.i386 0:1.9.1-4.4.el5 set to be updated
+---> Package apr.i386 0:1.2.7-11.el5_6.5 set to be updated
+---> Package centos-release-notes.i386 0:5.11-0 set to be updated
+---> Package module-init-tools.i386 0:3.3-0.pre3.1.63.el5 set to be updated
+--> Processing Dependency: mkinitrd for package: module-init-tools
+---> Package python-urlgrabber.noarch 0:3.1.0-6.el5 set to be updated
+---> Package gnutls.i386 0:1.4.1-16.el5_10 set to be updated
+---> Package groff.i386 0:1.18.1.1-13.el5 set to be updated
+---> Package findutils.i386 1:4.2.27-6.el5 set to be updated
+---> Package traceroute.i386 3:2.0.1-6.el5 set to be updated
+---> Package sendmail.i386 0:8.13.8-8.1.el5_7 set to be updated
+---> Package rpm.i386 0:4.4.2.3-36.el5_11 set to be updated
+---> Package cups-libs.i386 1:1.3.7-30.el5_9.3 set to be updated
+---> Package libsysfs.i386 0:2.1.0-1.el5 set to be updated
+---> Package finger-server.i386 0:0.17-33 set to be updated
+---> Package libtiff.i386 0:3.8.2-19.el5_10 set to be updated
+---> Package bzip2-libs.i386 0:1.0.3-6.el5_5 set to be updated
+---> Package libxml2.i386 0:2.6.26-2.1.25.el5_11 set to be updated
+---> Package libsepol.i386 0:1.15.2-3.el5 set to be updated
+---> Package bind-utils.i386 30:9.3.6-25.P1.el5_11.2 set to be updated
+---> Package vim-common.i386 2:7.0.109-7.2.el5 set to be updated
+---> Package cyrus-sasl-lib.i386 0:2.1.22-7.el5_8.1 set to be updated
+---> Package audit-libs.i386 0:1.8-2.el5 set to be updated
+---> Package lsof.i386 0:4.78-6 set to be updated
+---> Package aspell-en.i386 50:6.0-3 set to be updated
+---> Package aspell.i386 12:0.60.3-13 set to be updated
+---> Package libgcc.i386 0:4.1.2-55.el5 set to be updated
+---> Package yum-metadata-parser.i386 0:1.1.2-4.el5 set to be updated
+---> Package udev.i386 0:095-14.32.el5 set to be updated
+---> Package centos-release.i386 10:5-11.el5.centos set to be updated
+---> Package yum-fastestmirror.noarch 0:1.1.16-21.el5.centos set to be updated
+---> Package pcre.i386 0:6.6-9.el5 set to be updated
+---> Package libuser.i386 0:0.54.7-3.el5 set to be updated
+---> Package gzip.i386 0:1.3.5-13.el5.centos set to be updated
+---> Package man-pages.noarch 0:2.39-20.el5 set to be updated
+---> Package openldap.i386 0:2.3.43-28.el5_10 set to be updated
+---> Package python.i386 0:2.4.3-56.el5 set to be updated
+--> Processing Dependency: python-libs-i386 = 2.4.3-56.el5 for package: python
+---> Package psmisc.i386 0:22.2-11 set to be updated
+---> Package libselinux.i386 0:1.33.4-5.7.el5 set to be updated
+---> Package tcpdump.i386 14:3.9.4-15.el5 set to be updated
+---> Package rpm-python.i386 0:4.4.2.3-36.el5_11 set to be updated
+---> Package iputils.i386 0:20020927-46.el5 set to be updated
+---> Package policycoreutils.i386 0:1.33.12-14.13.el5 set to be updated
+---> Package grep.i386 0:2.5.1-55.el5 set to be updated
+---> Package sqlite.i386 0:3.3.6-7 set to be updated
+---> Package setup.noarch 0:2.5.58-9.el5 set to be updated
+---> Package file.i386 0:4.17-28 set to be updated
+---> Package mktemp.i386 3:1.5-24.el5 set to be updated
+---> Package jwhois.i386 0:3.2.3-12.el5 set to be updated
+--> Running transaction check
+---> Package python-libs.i386 0:2.4.3-56.el5 set to be updated
+---> Package mkinitrd.i386 0:5.1.19.6-82.el5 set to be updated
+--> Processing Dependency: nash = 5.1.19.6-82.el5 for package: mkinitrd
+--> Processing Dependency: kpartx >= 0.4.7-9 for package: mkinitrd
+--> Processing Dependency: device-mapper-multipath >= 0.4.7-50 for package: mkinitrd
+--> Processing Dependency: cpio for package: mkinitrd
+--> Processing Dependency: hmaccalc for package: mkinitrd
+--> Processing Dependency: lvm2 for package: mkinitrd
+--> Processing Dependency: iscsi-initiator-utils for package: mkinitrd
+--> Processing Dependency: dmraid for package: mkinitrd
+---> Package fipscheck-lib.i386 0:1.2.0-1.el5 set to be updated
+--> Processing Dependency: /usr/bin/fipscheck for package: fipscheck-lib
+--> Running transaction check
+---> Package nash.i386 0:5.1.19.6-82.el5 set to be updated
+---> Package cpio.i386 0:2.6-26.el5 set to be updated
+---> Package lvm2.i386 0:2.02.88-13.el5 set to be updated
+--> Processing Dependency: device-mapper-event for package: lvm2
+---> Package dmraid.i386 0:1.0.0.rc13-65.el5 set to be updated
+--> Processing Dependency: dmraid-events for package: dmraid
+---> Package fipscheck.i386 0:1.2.0-1.el5 set to be updated
+---> Package device-mapper-multipath.i386 0:0.4.7-63.el5 set to be updated
+---> Package hmaccalc.i386 0:0.9.6-4.el5 set to be updated
+---> Package iscsi-initiator-utils.i386 0:6.2.0.872-16.el5 set to be updated
+---> Package kpartx.i386 0:0.4.7-63.el5 set to be updated
+--> Running transaction check
+---> Package device-mapper-event.i386 0:1.02.67-2.el5_11.1 set to be updated
+---> Package dmraid-events.i386 0:1.0.0.rc13-65.el5 set to be updated
+--> Processing Dependency: sgpio for package: dmraid-events
+--> Running transaction check
+---> Package sgpio.i386 0:1.2.0_10-2.el5 set to be updated
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                   Arch     Version                     Repository
+                                                                           Size
+================================================================================
+Updating:
+ SysVinit                  i386     2.86-17.el5                 base      113 k
+ apr                       i386     1.2.7-11.el5_6.5            base      124 k
+ apr-util                  i386     1.2.7-11.el5_5.2            base       80 k
+ aspell                    i386     12:0.60.3-13                base      946 k
+ aspell-en                 i386     50:6.0-3                    base      1.5 M
+ audit-libs                i386     1.8-2.el5                   base       80 k
+ audit-libs-python         i386     1.8-2.el5                   base       80 k
+ authconfig                i386     5.3.21-7.el5                base      456 k
+ bash                      i386     3.2-33.el5_11.4             updates   1.8 M
+ bind-libs                 i386     30:9.3.6-25.P1.el5_11.2     updates   866 k
+ bind-utils                i386     30:9.3.6-25.P1.el5_11.2     updates   174 k
+ binutils                  i386     2.17.50.0.6-26.el5          base      3.0 M
+ bzip2                     i386     1.0.3-6.el5_5               base       49 k
+ bzip2-libs                i386     1.0.3-6.el5_5               base       37 k
+ centos-release            i386     10:5-11.el5.centos          base       21 k
+ centos-release-notes      i386     5.11-0                      base       40 k
+ chkconfig                 i386     1.3.30.2-2.el5              base      157 k
+ coreutils                 i386     5.97-34.el5_8.1             base      3.6 M
+ crontabs                  noarch   1.10-11.el5                 base      7.0 k
+ cups-libs                 i386     1:1.3.7-30.el5_9.3          base      200 k
+ curl                      i386     7.15.5-17.el5_9             base      235 k
+ cyrus-sasl                i386     2.1.22-7.el5_8.1            base      1.2 M
+ cyrus-sasl-lib            i386     2.1.22-7.el5_8.1            base      126 k
+ db4                       i386     4.3.29-10.el5_5.2           base      910 k
+ dbus                      i386     1.1.2-21.el5                base      236 k
+ dbus-libs                 i386     1.1.2-21.el5                base      125 k
+ device-mapper             i386     1.02.67-2.el5_11.1          updates   804 k
+ dhclient                  i386     12:3.0.5-33.el5_9           base      281 k
+ diffutils                 i386     2.8.1-16.el5                base      211 k
+ dmidecode                 i386     1:2.12-1.el5                base       79 k
+ e2fsprogs                 i386     1.39-37.el5                 base      832 k
+ e2fsprogs-libs            i386     1.39-37.el5                 base      120 k
+ ethtool                   i386     6-4.el5                     base       63 k
+ expat                     i386     1.95.8-11.el5_8             base       78 k
+ fetchmail                 i386     6.3.6-4.el5                 base      527 k
+ file                      i386     4.17-28                     base      319 k
+ filesystem                i386     2.4.0-3.el5.centos          base      1.0 M
+ findutils                 i386     1:4.2.27-6.el5              base      294 k
+ finger                    i386     0.17-33                     base       21 k
+ finger-server             i386     0.17-33                     base       14 k
+ ftp                       i386     0.17-38.el5                 base       55 k
+ gawk                      i386     3.1.5-16.el5                base      1.7 M
+ gdbm                      i386     1.8.0-28.el5                base       28 k
+ glibc                     i686     2.5-123                     base      5.4 M
+ glibc-common              i386     2.5-123                     base       16 M
+ gnupg                     i386     1.4.5-18.el5_10.1           base      1.8 M
+ gnutls                    i386     1.4.1-16.el5_10             base      353 k
+ grep                      i386     2.5.1-55.el5                base      175 k
+ groff                     i386     1.18.1.1-13.el5             base      1.9 M
+ gzip                      i386     1.3.5-13.el5.centos         base      102 k
+ httpd                     i386     2.2.3-91.el5.centos         base      1.2 M
+ initscripts               i386     8.45.45-1.el5.centos        base      1.6 M
+ iproute                   i386     2.6.18-15.el5               base      814 k
+ iptables                  i386     1.3.5-9.2.el5_8             base      238 k
+ iputils                   i386     20020927-46.el5             base      125 k
+ jwhois                    i386     3.2.3-12.el5                base       97 k
+ krb5-libs                 i386     1.6.1-80.el5_11             updates   670 k
+ less                      i386     436-9.el5                   base      106 k
+ libacl                    i386     2.2.39-8.el5                base       19 k
+ libgcc                    i386     4.1.2-55.el5                base       97 k
+ libgcrypt                 i386     1.4.4-7.el5_10              base      251 k
+ libjpeg                   i386     6b-38                       base      138 k
+ libpng                    i386     2:1.2.10-17.el5_8           base      241 k
+ libselinux                i386     1.33.4-5.7.el5              base       77 k
+ libselinux-python         i386     1.33.4-5.7.el5              base       73 k
+ libselinux-utils          i386     1.33.4-5.7.el5              base       55 k
+ libsemanage               i386     1.9.1-4.4.el5               base      137 k
+ libsepol                  i386     1.15.2-3.el5                base      128 k
+ libstdc++                 i386     4.1.2-55.el5                base      364 k
+ libsysfs                  i386     2.1.0-1.el5                 base       47 k
+ libtiff                   i386     3.8.2-19.el5_10             base      311 k
+ libusb                    i386     0.1.12-6.el5                base       26 k
+ libuser                   i386     0.54.7-3.el5                base      441 k
+ libxml2                   i386     2.6.26-2.1.25.el5_11        updates   799 k
+ libxml2-python            i386     2.6.26-2.1.25.el5_11        updates   705 k
+ lm_sensors                i386     2.10.7-9.el5                base      511 k
+ logrotate                 i386     3.7.4-14                    base       42 k
+ lsof                      i386     4.78-6                      base      323 k
+ m2crypto                  i386     0.16-9.el5                  base      495 k
+ man                       i386     1.6d-3.el5                  base      262 k
+ man-pages                 noarch   2.39-20.el5                 base      4.2 M
+ mktemp                    i386     3:1.5-24.el5                base       14 k
+ mlocate                   i386     0.15-1.el5.2                base       47 k
+ module-init-tools         i386     3.3-0.pre3.1.63.el5         base      432 k
+ net-snmp                  i386     1:5.3.2.2-25.el5_11         updates   705 k
+ net-snmp-libs             i386     1:5.3.2.2-25.el5_11         updates   1.3 M
+ net-snmp-utils            i386     1:5.3.2.2-25.el5_11         updates   193 k
+ net-tools                 i386     1.60-83.el5_10              base      361 k
+ newt                      i386     0.52.2-15.el5               base      111 k
+ nscd                      i386     2.5-123                     base      178 k
+ nspr                      i386     4.10.6-1.el5_10             base      124 k
+ nss                       i386     3.16.2.3-1.el5_11           updates   1.2 M
+ ntsysv                    i386     1.3.30.2-2.el5              base       24 k
+ openldap                  i386     2.3.43-28.el5_10            base      298 k
+ openssh                   i386     4.3p2-82.el5                base      291 k
+ openssh-clients           i386     4.3p2-82.el5                base      455 k
+ openssh-server            i386     4.3p2-82.el5                base      275 k
+ openssl                   i686     0.9.8e-31.el5_11            updates   1.5 M
+ pam                       i386     0.99.6.2-12.el5             base      983 k
+ passwd                    i386     0.73-2                      base       20 k
+ pcre                      i386     6.6-9.el5                   base      118 k
+ perl                      i386     4:5.8.8-43.el5_11           updates    12 M
+ policycoreutils           i386     1.33.12-14.13.el5           base      621 k
+ popt                      i386     1.10.2.3-36.el5_11          updates    77 k
+ postgresql-libs           i386     8.1.23-10.el5_10            base      198 k
+ procmail                  i386     3.22-17.1.2.el5_10          updates   167 k
+ procps                    i386     3.2.7-26.el5                base      214 k
+ psmisc                    i386     22.2-11                     base       62 k
+ python                    i386     2.4.3-56.el5                base       60 k
+ python-iniparse           noarch   0.2.3-6.el5                 base       34 k
+ python-urlgrabber         noarch   3.1.0-6.el5                 base      132 k
+ quota                     i386     1:3.13-8.el5                base      356 k
+ readline                  i386     5.1-3.el5                   base      223 k
+ rpm                       i386     4.4.2.3-36.el5_11           updates   1.2 M
+ rpm-libs                  i386     4.4.2.3-36.el5_11           updates   931 k
+ rpm-python                i386     4.4.2.3-36.el5_11           updates    62 k
+ rsync                     i386     3.0.6-6.el5_11              updates   338 k
+ sed                       i386     4.1.5-8.el5                 base      176 k
+ sendmail                  i386     8.13.8-8.1.el5_7            base      624 k
+ sendmail-cf               i386     8.13.8-8.1.el5_7            base      306 k
+ sendmail-doc              i386     8.13.8-8.1.el5_7            base      665 k
+ setup                     noarch   2.5.58-9.el5                base      125 k
+ shadow-utils              i386     2:4.0.17-23.el5             base      1.0 M
+ sqlite                    i386     3.3.6-7                     base      213 k
+ stunnel                   i386     4.15-2.el5.2                updates   112 k
+ sudo                      i386     1.7.2p1-29.el5_10           base      357 k
+ sysklogd                  i386     1.4.1-46.el5                base       74 k
+ talk                      i386     0.17-31.el5                 base       20 k
+ talk-server               i386     0.17-31.el5                 base       19 k
+ tar                       i386     2:1.15.1-32.el5_8           base      748 k
+ tcp_wrappers              i386     7.6-40.7.el5                base      109 k
+ tcpdump                   i386     14:3.9.4-15.el5             base      447 k
+ tcsh                      i386     6.14-17.el5_5.2             base      465 k
+ telnet                    i386     1:0.17-41.el5               base       57 k
+ tmpwatch                  i386     2.9.7-1.1.el5.5             base       19 k
+ traceroute                i386     3:2.0.1-6.el5               base       40 k
+ tzdata                    i386     2014j-1.el5                 updates   787 k
+ udev                      i386     095-14.32.el5               base      2.4 M
+ util-linux                i386     2.13-0.59.el5_8             base      1.9 M
+ vim-common                i386     2:7.0.109-7.2.el5           base      6.4 M
+ vim-enhanced              i386     2:7.0.109-7.2.el5           base      1.2 M
+ vim-minimal               i386     2:7.0.109-7.2.el5           base      310 k
+ vixie-cron                i386     4:4.1-81.el5                base       81 k
+ wget                      i386     1.11.4-3.el5_8.2            base      582 k
+ xinetd                    i386     2:2.3.14-20.el5_10          base      127 k
+ yum                       noarch   3.2.22-40.el5.centos        base      1.0 M
+ yum-fastestmirror         noarch   1.1.16-21.el5.centos        base       21 k
+ yum-metadata-parser       i386     1.1.2-4.el5                 base       26 k
+ zlib                      i386     1.2.3-7.el5                 base       51 k
+Installing for dependencies:
+ cpio                      i386     2.6-26.el5                  base      122 k
+ device-mapper-event       i386     1.02.67-2.el5_11.1          updates    24 k
+ device-mapper-multipath   i386     0.4.7-63.el5                base      2.9 M
+ dmraid                    i386     1.0.0.rc13-65.el5           base      737 k
+ dmraid-events             i386     1.0.0.rc13-65.el5           base       24 k
+ fipscheck                 i386     1.2.0-1.el5                 base       13 k
+ fipscheck-lib             i386     1.2.0-1.el5                 base      6.7 k
+ hmaccalc                  i386     0.9.6-4.el5                 base       22 k
+ iscsi-initiator-utils     i386     6.2.0.872-16.el5            base      1.0 M
+ kpartx                    i386     0.4.7-63.el5                base      436 k
+ lvm2                      i386     2.02.88-13.el5              base      3.2 M
+ mkinitrd                  i386     5.1.19.6-82.el5             base      482 k
+ nash                      i386     5.1.19.6-82.el5             base      1.1 M
+ python-libs               i386     2.4.3-56.el5                base      5.9 M
+ sgpio                     i386     1.2.0_10-2.el5              base       11 k
+
+Transaction Summary
+================================================================================
+Install     15 Package(s)         
+Update     149 Package(s)         
+Remove       0 Package(s)         
+
+Total download size: 124 M
+Downloading Packages:
